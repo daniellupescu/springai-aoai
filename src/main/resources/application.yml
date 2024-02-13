@@ -1,0 +1,11 @@
+spring:
+  ai:
+    azure:
+      openai:
+        endpoint: 
+        api-key: 
+        chat:
+          options:
+            model: gpt-35-turbo
+            temperature: 0
+            max-tokens: 500
